@@ -1,0 +1,63 @@
+# AI Fluency Framework & Foundations
+
+## Lesson 03 - What is Generative AI?
+
+Nesta aula, estudei o conceito de IA generativa e como ela se diferencia de outros tipos de inteligência artificial. A principal ideia é que a IA generativa não apenas classifica, analisa ou organiza dados existentes, mas também cria novos conteúdos, como textos, códigos, explicações, resumos, imagens e sugestões de solução.
+
+A aula também explicou que os grandes modelos de linguagem modernos foram possíveis principalmente por três fatores: a arquitetura transformer, grandes volumes de dados de treinamento e capacidade computacional massiva. Também foi importante entender que o treinamento desses modelos envolve etapas como o pré-treinamento, no qual o modelo aprende padrões a partir de muitos exemplos, e o ajuste fino, no qual ele aprende a seguir instruções de forma mais útil.
+
+## Campo de teste escolhido
+
+Para aplicar o exercício da aula, escolhi como domínio o desenvolvimento de software backend com Java, Spring Boot, APIs REST, integrações entre sistemas e migração de aplicações legadas para arquiteturas mais modernas.
+
+Esse é um tema que conheço bem e no qual consigo identificar rapidamente quando uma resposta da IA está correta, incompleta, superficial ou arriscada.
+
+## Fatos que eu esperaria que uma boa fonte acertasse
+
+1. Em um projeto Java/Spring Boot, a IA não deve apenas gerar código que compila. Ela precisa respeitar arquitetura, regras de negócio, segurança, transações, tratamento de erros e padrões já existentes no projeto.
+
+2. Em integrações entre sistemas, principalmente quando envolvem APIs, banco de dados, filas ou sistemas legados, é essencial validar contrato, autenticação, formato dos dados, tratamento de falhas e comportamento em cenários de exceção.
+
+3. Em migrações de sistemas legados para Java, não basta traduzir código linha por linha. É necessário entender o comportamento original, regras implícitas, dependências, dados históricos e impactos no negócio.
+
+## Equívoco comum
+
+Um equívoco comum é pensar que a IA pode substituir completamente o desenvolvedor apenas porque consegue gerar código rapidamente. Na prática, ela acelera muito o trabalho, mas o desenvolvedor continua sendo responsável por entender, validar, testar e adaptar a solução ao contexto real do projeto.
+
+## Algo difícil de explicar bem
+
+Uma coisa difícil de explicar é que, em desenvolvimento de software, o código em si muitas vezes é a parte mais visível, mas não necessariamente a mais importante. O mais crítico é entender a regra de negócio, o contexto do sistema, os impactos da mudança, os riscos técnicos e os cenários que podem quebrar em produção.
+
+## Teste de versatilidade
+
+Ao pedir para a IA explicar o tema para três públicos diferentes — um cliente sem conhecimento técnico, um parceiro de negócio e um novo funcionário — percebi que ela consegue adaptar bem o tom geral da resposta.
+
+Para um cliente, a explicação tende a ser mais simples e focada em valor. Para um parceiro de negócio, ela costuma destacar integração, fluxo de dados e responsabilidades. Para um novo funcionário, a resposta fica mais técnica e orientada ao processo de desenvolvimento.
+
+A versão mais forte foi a explicação para o novo funcionário, porque esse público permite um equilíbrio melhor entre contexto técnico e aplicação prática.
+
+## Teste de alucinação
+
+Ao pedir recomendações de recursos específicos relacionados ao tema, percebi que esse é um ponto que exige bastante cuidado. A IA pode sugerir tecnologias, padrões, ferramentas ou documentações que parecem plausíveis, mas que precisam ser verificadas antes de serem usadas como referência.
+
+Esse teste reforçou que, quando a resposta envolve links, versões, ferramentas, bibliotecas, documentação oficial ou decisões técnicas importantes, não é seguro aceitar a resposta sem validação externa.
+
+## Teste de corte de conhecimento e raciocínio
+
+Em perguntas sensíveis ao tempo, como versões atuais de frameworks, mudanças recentes em bibliotecas, requisitos de segurança ou melhores práticas atualizadas, a IA pode não ter a informação mais recente. Por isso, é essencial verificar documentação oficial, changelogs, repositórios e fontes confiáveis antes de tomar uma decisão.
+
+Quando pedi para a IA resolver o equívoco comum de que ela poderia substituir completamente o desenvolvedor, a resposta foi útil, mas precisou de refinamento. Ela explicou corretamente que a IA é uma ferramenta de apoio, mas coube a mim reforçar o ponto mais importante: a responsabilidade final continua sendo humana.
+
+## Reflexão
+
+A capacidade que apareceu mais claramente foi a versatilidade. A IA consegue adaptar explicações, gerar exemplos, organizar ideias e transformar um mesmo tema para públicos diferentes com bastante velocidade.
+
+A limitação que mais apareceu foi a possibilidade de alucinação e excesso de confiança. Em uma área que conheço bem, eu consigo perceber quando uma resposta está superficial ou incorreta. Mas em uma área que não domino, talvez eu não percebesse com a mesma facilidade.
+
+Com base nisso, eu me sentiria confortável em delegar à IA tarefas como rascunhos de documentação, explicações iniciais, geração de exemplos, organização de ideias, revisão de texto e apoio na criação de código base.
+
+Por outro lado, eu acompanharia mais de perto tarefas como decisões de arquitetura, regras críticas de negócio, segurança, integrações sensíveis, queries complexas, migrações de sistemas legados e qualquer alteração que possa impactar produção.
+
+## Conclusão
+
+Essa aula reforçou que saber como a IA generativa funciona muda a forma como devemos trabalhar com ela. A IA pode ser extremamente útil, mas não deve ser tratada como uma fonte infalível. O melhor uso acontece quando combinamos a velocidade da IA com o julgamento, a experiência e a responsabilidade humana.
